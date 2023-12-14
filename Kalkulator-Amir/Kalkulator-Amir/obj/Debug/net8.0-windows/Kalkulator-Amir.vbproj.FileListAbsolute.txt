@@ -1,0 +1,16 @@
+C:\Users\Zhii\source\repos\Kalkulator-Amir\Kalkulator-Amir\bin\Debug\net8.0-windows\Kalkulator-Amir.exe
+C:\Users\Zhii\source\repos\Kalkulator-Amir\Kalkulator-Amir\bin\Debug\net8.0-windows\Kalkulator-Amir.deps.json
+C:\Users\Zhii\source\repos\Kalkulator-Amir\Kalkulator-Amir\bin\Debug\net8.0-windows\Kalkulator-Amir.runtimeconfig.json
+C:\Users\Zhii\source\repos\Kalkulator-Amir\Kalkulator-Amir\bin\Debug\net8.0-windows\Kalkulator-Amir.dll
+C:\Users\Zhii\source\repos\Kalkulator-Amir\Kalkulator-Amir\bin\Debug\net8.0-windows\Kalkulator-Amir.pdb
+C:\Users\Zhii\source\repos\Kalkulator-Amir\Kalkulator-Amir\obj\Debug\net8.0-windows\Kalkulator_Amir.Form1.resources
+C:\Users\Zhii\source\repos\Kalkulator-Amir\Kalkulator-Amir\obj\Debug\net8.0-windows\Kalkulator-Amir.vbproj.GenerateResource.cache
+C:\Users\Zhii\source\repos\Kalkulator-Amir\Kalkulator-Amir\obj\Debug\net8.0-windows\Kalkulator-Amir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zhii\source\repos\Kalkulator-Amir\Kalkulator-Amir\obj\Debug\net8.0-windows\Kalkulator-Amir.AssemblyInfoInputs.cache
+C:\Users\Zhii\source\repos\Kalkulator-Amir\Kalkulator-Amir\obj\Debug\net8.0-windows\Kalkulator-Amir.AssemblyInfo.vb
+C:\Users\Zhii\source\repos\Kalkulator-Amir\Kalkulator-Amir\obj\Debug\net8.0-windows\Kalkulator-Amir.vbproj.CoreCompileInputs.cache
+C:\Users\Zhii\source\repos\Kalkulator-Amir\Kalkulator-Amir\obj\Debug\net8.0-windows\Kalkulator-Amir.dll
+C:\Users\Zhii\source\repos\Kalkulator-Amir\Kalkulator-Amir\obj\Debug\net8.0-windows\refint\Kalkulator-Amir.dll
+C:\Users\Zhii\source\repos\Kalkulator-Amir\Kalkulator-Amir\obj\Debug\net8.0-windows\Kalkulator-Amir.pdb
+C:\Users\Zhii\source\repos\Kalkulator-Amir\Kalkulator-Amir\obj\Debug\net8.0-windows\Kalkulator-Amir.genruntimeconfig.cache
+C:\Users\Zhii\source\repos\Kalkulator-Amir\Kalkulator-Amir\obj\Debug\net8.0-windows\ref\Kalkulator-Amir.dll
